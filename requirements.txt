@@ -1,0 +1,4 @@
+regex==2022.10.31 
+pytest-shutil==1.7.0  
+openai
+pathlib
